@@ -1,4 +1,4 @@
-Chrome extension to fix problems with BambooHR.
+Chrome & Firefox extension to fix problems with BambooHR.
 
 Currently fixes:
 

@@ -28,7 +28,7 @@ $(document).ready(function() {
         });
     }
 
-    const myInfoElements = $('.PTOCard__main__iconTime');
+    const myInfoElements = $('.TOCard__iconAndTime');
     if(myInfoElements.length > 0) {
         const myInfoTimeOffElement = myInfoElements.first();
 

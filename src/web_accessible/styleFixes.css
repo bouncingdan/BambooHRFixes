@@ -12,6 +12,8 @@
     display: none;
 }
 
-.PTOCard__main__iconTime #FixedTime {
-    font-size: 43px;
+.TOCard__iconAndTime #FixedTime {
+	font-size: 36px;
+	height: 32px;
+	padding-top: 4px;
 }
